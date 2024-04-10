@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sakaleshhubli
-- 👀 I’m interested in frontend
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on website designs
-- 📫 How to reach me: @upmaagain on instagram
+- 📫 How to reach me: Sakalesh_fr on twiter
 
 <!---
 sakaleshhubli/sakaleshhubli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
