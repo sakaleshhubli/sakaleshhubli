@@ -1,10 +1,12 @@
 ### Sakaleshwar
-2nd Year Computer Science undergrad
+2nd year computer science undergrad
+
 
 
 #### Contact Information:
 - Email: `sakaleshhubli@gmail.com`
 - Twitter: `sakalesh_frr`
+
 
 
 ⚡ Rustacean!
