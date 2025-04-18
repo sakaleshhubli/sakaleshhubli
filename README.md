@@ -1,11 +1,10 @@
 ### Sakaleshwar
-
-I am a 2nd Year CSE Student
+2nd Year Computer Science undergrad
 
 
 #### Contact Information:
 - Email: `sakaleshhubli@gmail.com`
-- Twitter: `sakalesh_frt`
+- Twitter: `sakalesh_frr`
 
 
 ⚡ Rustacean!
