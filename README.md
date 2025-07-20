@@ -10,6 +10,3 @@
 
 
 ⚡ Rustacean!
-
-
-![Snake Game](https://raw.githubusercontent.com/sakaleshhubli/sakaleshhubli/output/github-contribution-grid-snake.svg)
