@@ -1,17 +1,24 @@
 name: Update Snake Game
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:     # Manual trigger
+    - cron: "0 * * * *"  # Runs hourly
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Required to push SVG updates
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: sakaleshhubli
           svg_path: ./output/github-contribution-grid-snake.svg
-      - run: git commit -m "Update snake game" ./output/github-contribution-grid-snake.svg || true
-      - run: git push
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add ./output/github-contribution-grid-snake.svg
+          git commit -m "Update snake game" || echo "No changes to commit"
+          git push
