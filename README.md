@@ -10,3 +10,6 @@
 
 
 ⚡ Rustacean!
+
+
+![snake gif](https://github.com/sakaleshhubli/sakaleshhubli/blob/output/github-snake-dark.svg)
