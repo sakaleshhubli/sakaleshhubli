@@ -11,7 +11,7 @@
 
 ## Stats 
 <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=sakaleshhubli&show_icons=true&theme=transparent" alt="Sakaleshwar's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img height=300 width=400 src="https://streak-stats.demolab.com/?user=sakaleshhubli&theme=transparent"/></a>
-<img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakaleshhubli&show_icons=true&theme=transparent&layout=compact&langs_count=8" alt="Top Languages" />
+<!-- <img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakaleshhubli&show_icons=true&theme=transparent&layout=compact&langs_count=8" alt="Top Languages" /> -->
 
 
 ![snake gif](https://github.com/sakaleshhubli/sakaleshhubli/blob/output/github-snake-dark.svg)
