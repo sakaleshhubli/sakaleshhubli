@@ -6,8 +6,11 @@
 3rd year computer science undergrad at NIE Mysuru. 
 
 
-## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,rust,mysql,postman,flask,sklearn,git)](https://skillicons.dev)
+### Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,rust,mysql,html)](https://skillicons.dev)
+
+### Tools, Libraries & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn,postman,pytorch,flask,rocket,figma)](https://skillicons.dev)
 
  
 ## Get in touch
