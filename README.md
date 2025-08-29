@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hola+amigo+,+kaise ho+theek ho+?;ML+engineer+%7C+%7C+builder" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=4990&pause=800&color=19CCF7&width=435&lines=Hola+amigo!+kaise+ho%2C+theek+ho%3F;glad+to+see+you++here++%5E%5E)" alt="Typing SVG" /></a>
 </p>
 
 # **Sakaleshwar C Hubli**
