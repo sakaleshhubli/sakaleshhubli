@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hola+amigo+,+kaise ho+theek ho+?;ML+engineer+%7C+%7C+builder" alt="Typing SVG" />
+</p>
+
 # **Sakaleshwar C Hubli**
 3rd year computer science undergrad at NIE Mysuru. 
 
