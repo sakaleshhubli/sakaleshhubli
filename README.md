@@ -7,10 +7,10 @@
 
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,rust,mysql,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,rust,mysql,js,html)](https://skillicons.dev)
 
 ### Tools, Libraries & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=scikitlearn,postman,pytorch,flask,rocket,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn,postman,pytorch,flask,rocket,mongodb,express,react,nodejs,figma,tokio)](https://skillicons.dev)
 
  
 ## Get in touch
