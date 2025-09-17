@@ -17,9 +17,13 @@
 *[Mail](https://mailto:sakaleshhubli@gmail.com) | [Twitter](https://twitter.com/sakalesh_frr)*
 
 ## Stats 
-<img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=sakaleshhubli&show_icons=true&theme=transparent" alt="Sakaleshwar's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img height=300 width=400 src="https://streak-stats.demolab.com/?user=sakaleshhubli&theme=transparent"/></a>
-<!-- <img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakaleshhubli&show_icons=true&theme=transparent&layout=compact&langs_count=8" alt="Top Languages" /> -->
+<img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=sakaleshhubli&show_icons=true&theme=transparent" alt="Sakaleshwar's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats">
 
+<img height=300 width=400 src="https://streak-stats.demolab.com/?user=sakaleshhubli&theme=transparent"/></a>
+
+<img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakaleshhubli&show_icons=true&theme=transparent&layout=compact&langs_count=8" alt="Top Languages" />
+
+[![An image of @sakaleshhubli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakaleshhubli)](https://holopin.io/@sakaleshhubli)
 
 ![snake gif](https://github.com/sakaleshhubli/sakaleshhubli/blob/output/github-snake-dark.svg)
 
