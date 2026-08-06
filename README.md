@@ -3,7 +3,7 @@
 </p>
 
 # **Sakaleshwar C Hubli**
-3rd year computer science undergrad at NIE Mysuru. 
+Final year computer science undergrad at NIE Mysuru. 
 
 
 ### Programming Languages:
